@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 My name is Matias Bueno
-
-Hello, my name is Matías Bueno. I am a web developer. 
+I am a web developer. 
 I keep learning day by day to improve myself by improving my skills.
 
 - 🔭 I’m currently working on personal projects
